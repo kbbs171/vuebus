@@ -32,7 +32,7 @@ const routes = [
       },
       {
         path: '/order',
-        name: '订单管理',
+        name: '聊天',
         component: () => import('../views/order/index')
       },
       {
